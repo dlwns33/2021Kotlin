@@ -1,9 +1,9 @@
 package chap02.section2
 
 fun main() {
-    println("Int: ${Byte.MIN_VALUE}~${Byte.MAX_VALUE}")
+    println("Byte: ${Byte.MIN_VALUE}~${Byte.MAX_VALUE}")
     println("Int: ${Int.MIN_VALUE}~${Int.MAX_VALUE}")
-    println("Int: ${Short.MIN_VALUE}~${Short.MAX_VALUE}")
-    println("Int: ${Long.MIN_VALUE}~${Long.MAX_VALUE}")
-    println("Int: ${Double.MIN_VALUE}~${Double.MAX_VALUE}")
+    println("Short: ${Short.MIN_VALUE}~${Short.MAX_VALUE}")
+    println("Long: ${Long.MIN_VALUE}~${Long.MAX_VALUE}")
+    println("Double: ${Double.MIN_VALUE}~${Double.MAX_VALUE}")
 }
